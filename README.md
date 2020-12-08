@@ -21,3 +21,15 @@ Then start training.
 ### How to export
 
 You can Export the trained model for using it in realtime by following instructions [here](https://github.com/affinelayer/pix2pix-tensorflow/blob/master/server)
+
+### Results
+
+Following are resluts after 200 epoch :
+
+![1](OutputSamples/1.png)
+![2](OutputSamples/2.png)
+![3](OutputSamples/3.png)
+![4](OutputSamples/4.png)
+![5](OutputSamples/5.png)
+![6](OutputSamples/6.png)
+![7](OutputSamples/7.png)
