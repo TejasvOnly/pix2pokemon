@@ -2,7 +2,7 @@
 A pix2pix model for converting edge drawing of pokemons into 3d shaded images built for College Major Project.
 
 #### About the dataset
-Dataset was creating by using pokemon models from nintendo games, currently only two pokemons are present in the dataset (to limit the training time) but it can be expanded to any number of pokemons.
+Dataset was created by using pokemon models from nintendo games, currently only two pokemons are present in the dataset (to limit the training time) but it can be expanded to any number of pokemons.
 
 ## How to run
 
